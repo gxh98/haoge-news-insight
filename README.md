@@ -121,6 +121,12 @@ python scripts/validate_card.py - --json < 我的卡片.md
 
 Windows 11 + Python 3.12。示例卡片均通过 `scripts/validate_card.py` 校验（退出码 0）。
 
+## 关于作者
+
+**昊哥**：26 年汽车行业老兵（销售 → 管理 → 创业 → AI），近年聚焦奔驰后市场。这个技能固化自我每天真实在用的新闻处理流程——我的行业认知更新靠它。
+
+更多把行业经验做成 AI 技能的工具，见[我的 GitHub 主页](https://github.com/gxh98)。
+
 ## 许可证
 
 MIT，见 [LICENSE](LICENSE)。
